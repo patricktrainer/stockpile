@@ -1,6 +1,6 @@
 # Stockpile
 
-A growing pile of things I've found either:
+A growing pile of things I've found to be:
 
 - Helpful
 - Neat
